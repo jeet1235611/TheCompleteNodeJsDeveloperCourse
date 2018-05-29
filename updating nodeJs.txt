@@ -1,0 +1,14 @@
+
+
+To update, you can install n
+
+sudo npm install -g n
+
+Then just :
+
+sudo n latest
+
+or a specific version
+
+sudo n 8.9.0
+
