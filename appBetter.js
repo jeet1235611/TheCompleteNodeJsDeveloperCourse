@@ -4,6 +4,7 @@ const fs = require('fs');
 fs.appendFileSync('greetings.txt', 'Hellow world!');
 
 // For the higher version of node.
+//For node v7 or greater we will get a small error.
 //Original line
 fs.appendFile('greetings.txt', 'Hello World!');
 
