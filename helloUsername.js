@@ -7,3 +7,4 @@ var user = os.userInfo();
 // console.log(user);
 
 fs.appendFileSync('greetigns.txt', 'Hello ' + user.username + '!');
+dddd
